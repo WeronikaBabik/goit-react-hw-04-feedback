@@ -1,0 +1,22 @@
+.btnFeedback {
+  cursor: pointer;
+  border: 1px solid rgb(141, 141, 141);
+  border-radius: 10%;
+  font-size: 20px;
+}
+.buttons {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  font-size: 30px;
+  color: #010101;
+}
